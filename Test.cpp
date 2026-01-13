@@ -2,9 +2,13 @@
 int main(void)
 {
     using namespace std;
+    int i;
     cout << "Hello World!" << endl;
     cout << "Let's test RedPitaya!" << endl;
-    cout << "C++ language standard version: This project uses the __cplusplus language standard version." << endl;
+    cout << "C++ language standard version: This project uses the " << __cplusplus << " language standard version." << endl;
     return 0;
+
+    i = 0;
+    cout << "i = " << i << endl;
 }
-aesrdtyfuygi
+
