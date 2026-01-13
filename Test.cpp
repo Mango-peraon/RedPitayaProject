@@ -7,3 +7,4 @@ int main(void)
     cout << "C++ language standard version: This project uses the __cplusplus language standard version." << endl;
     return 0;
 }
+aesrdtyfuygi
